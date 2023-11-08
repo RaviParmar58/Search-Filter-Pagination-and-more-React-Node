@@ -1,0 +1,17 @@
+{
+  "name": "back-end-nodejs",
+  "version": "1.0.0",
+  "description": "This is a search and filter project in reactjs and nodejs ",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ravi Parmar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0"
+  }
+}
